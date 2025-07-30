@@ -18,8 +18,6 @@ This project is a machine learning-based classifier that detects various mental 
 - Personality Disorder
 - Normal
 
-## 📊 Preview
-_Add screenshots here later_
 
 ## 🔧 Requirements
 
